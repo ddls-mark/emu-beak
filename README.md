@@ -4,4 +4,4 @@
 
 You will find the following here:
 
-1. The learning plan for students attending the MSSA program beginning 6th June 2022. ([here](/CAD-Learning-Plan.md))
+1. [The learning plan for students attending the MSSA program beginning 6th June 2022.](CAD-Learning-Plan.md)
