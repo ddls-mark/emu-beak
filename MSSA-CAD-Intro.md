@@ -1,4 +1,4 @@
-# Getting Started with your MSSA SCA course
+# Getting Started with your MSSA Cloud Applicaiton Developer course
 
 ## Grading
 
