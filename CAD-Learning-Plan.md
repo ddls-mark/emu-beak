@@ -1,4 +1,4 @@
-# MSSA-APAC-CAD1
+# MSSA-APAC-CAD1 (Course Schedule - June to October 2022)
 
 ## Learning Plan (V.0.0.1)
 
