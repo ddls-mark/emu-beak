@@ -13,7 +13,7 @@ Course Resources| Username| Password
 Skillpipe|<img width=200/>|<img width=200/>
 LearnOnDemand||
 
-- Use something like this table to record the credentials you will be building in the next few setup steps.
+- Use something like the above table to record the credentials you will be building in the next few setup steps.
 
 ## Courseware
 

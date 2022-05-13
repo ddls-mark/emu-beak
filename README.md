@@ -1,8 +1,10 @@
+
 # MSSA-APAC-CAD1
 
 
 
-
+![](images/AIICT.png)
+![](images/Microsoft.png)
 
 ### Class Information
 [Daily class schedule](CAD-Learning-Plan.md)<br>
