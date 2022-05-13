@@ -1,4 +1,4 @@
-# Getting Started with your MSSA Cloud Applicaiton Developer course
+# Getting Started with your MSSA Cloud Application Developer course
 
 ## Grading
 
