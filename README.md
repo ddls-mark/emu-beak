@@ -7,15 +7,15 @@
 ![](images/Microsoft.png)
 
 ### Class Information
-[Daily class schedule](CAD-Learning-Plan.md)<br>
+[Daily class schedule](/Documents/CAD-Learning-Plan.md)<br>
 [AIICT Study Spot Portal](https://www.studyspot.com.au/my/)<br>
-[Course Intro](MSSA-CAD-Intro.md)
+[Course Intro](Documents/MSSA-CAD-Intro.md)
 
 ### Classroom Resources
 
 [Microsoft Course Manuals (SkillPipe)](https://skillpipe.com)<br>
 [Microsoft Labs (LearnOnDemand)](https://ddls.learnondemand.net/)<br>
-[Register for SkillPipe Manuals and LearnOnDemand Labs](Course-and-Manuals.md#course-setup)
+[Register for SkillPipe Manuals and LearnOnDemand Labs](Documents/Course-and-Manuals.md)
 
 
 ### Teams Meeting
