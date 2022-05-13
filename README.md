@@ -22,9 +22,9 @@
 
 ### Trainer specific content
 
+[**Newton De Godoy**, 10975, Intro to Programming](/)<br>
 [**Mark Walsh**, 20483, C# Programming](/)<br>
 [**Iain Morrison**, DP-080, Transact SQL](/)<br>
-[**Newton De Godoy**, 10975, Intro to Programming](/)<br>
 [**Arturo Bravo**, 20480 + 20486, HTML, Javascript, CSS](/)<br>
 [**Steve Wiggins**, AZ-900 + AZ-204, Developing applications for Azure](/)
 
