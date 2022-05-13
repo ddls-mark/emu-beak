@@ -24,23 +24,23 @@
 |24-Jun|Fri|3|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |27-Jun|Mon|4|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison| |
 |28-Jun|Tue|4|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison|Organise MTM Link|
-|29-Jun|Wed|4|20483|Programming in C# (MOC)| |Mark Walsh| |
-|30-Jun|Thu|4|20483|Programming in C# (MOC)| |Mark Walsh| |
+|29-Jun|Wed|4|20483|Programming in C# (MOC)|Module 1 & 2 (Key points)|Mark Walsh|Overlaps with 10975, can go through more quickly|
+|30-Jun|Thu|4|20483|Programming in C# (MOC)|Module 3|Mark Walsh| |
 |1-Jul|Fri|4|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |4-Jul|Mon|5|Holiday: Independence Day (US)| | | | |
-|5-Jul|Tue|5|20483|Programming in C# (MOC)| |Mark Walsh| |
-|6-Jul|Wed|5|20483|Programming in C# (MOC)| |Mark Walsh| |
-|7-Jul|Thu|5|20483|Programming in C# (MOC)| |Mark Walsh| |
+|5-Jul|Tue|5|20483|Programming in C# (MOC)|Module 3,4|Mark Walsh| |
+|6-Jul|Wed|5|20483|Programming in C# (MOC)|Module 4|Mark Walsh| |
+|7-Jul|Thu|5|20483|Programming in C# (MOC)|Module 5|Mark Walsh| |
 |8-Jul|Fri|5|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
-|11-Jul|Mon|6|20483|Programming in C# (MOC)| |Mark Walsh| |
-|12-Jul|Tue|6|20483|Programming in C# (MOC)| |Mark Walsh| |
-|13-Jul|Wed|6|20483|Programming in C# (MOC)| |Mark Walsh| |
-|14-Jul|Thu|6|20483|Programming in C# (MOC)| |Mark Walsh| |
+|11-Jul|Mon|6|20483|Programming in C# (MOC)|Module 6|Mark Walsh| |
+|12-Jul|Tue|6|20483|Programming in C# (MOC)|Module 7|Mark Walsh| |
+|13-Jul|Wed|6|20483|Programming in C# (MOC)|Custom REST API module|Mark Walsh|Replace M8 with a custom module about REST rather than WCF|
+|14-Jul|Thu|6|20483|Programming in C# (MOC)|Module 9|Mark Walsh| |
 |15-Jul|Fri|6|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
-|18-Jul|Mon|7|20483|Programming in C# (MOC)| |Mark Walsh| |
-|19-Jul|Tue|7|20483|Programming in C# (MOC)| |Mark Walsh| |
-|20-Jul|Wed|7|20483|Programming in C# (MOC)| |Mark Walsh| |
-|21-Jul|Thu|7|20483|Programming in C# (MOC)| |Mark Walsh|Organise MTM Link|
+|18-Jul|Mon|7|20483|Programming in C# (MOC)|Module 10|Mark Walsh| |
+|19-Jul|Tue|7|20483|Programming in C# (MOC)|Module 10,11|Mark Walsh| |
+|20-Jul|Wed|7|20483|Programming in C# (MOC)|Module 12|Mark Walsh| |
+|21-Jul|Thu|7|20483|Programming in C# (MOC)|Module 12,13|Mark Walsh|Organise MTM Link|
 |22-Jul|Fri|7|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |25-Jul|Mon|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Mark Walsh (TBC)| |
 |26-Jul|Tue|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Mark Walsh (TBC)| |
