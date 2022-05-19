@@ -1,6 +1,6 @@
 # MSSA-APAC-CAD1 (Course Schedule - June to October 2022)
 
-## Learning Plan (V.0.0.1)
+## Learning Plan (V.0.0.2)
 
 |Date|Day|Week|MOC Course# or Subject|Course Title/Topic|Modules Covered|Instructor Name|Notes (activities, transitions, additional topics, etc.)|
 |:----|:----|:----|:----|:----|:----|:----|:----|
