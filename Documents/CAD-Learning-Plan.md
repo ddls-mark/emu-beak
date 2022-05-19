@@ -7,15 +7,15 @@
 | | | | | | | | |
 |Prior to start| |0|Orientation|Orientation| | |Understand how the program works, review materials list, show how to access MS TEAMs, lab access, challenges etc.|
 | | | | | | | | |
-|6-Jun|Mon|1|10975|Introduction to Programming using Visual Studio 2019 (MOC)| |Newton Godoy| |
-|7-Jun|Tue|1|10975|Introduction to Programming using Visual Studio 2019 (MOC)| |Newton Godoy| |
-|8-Jun|Wed|1|10975|Introduction to Programming using Visual Studio 2019 (MOC)| |Newton Godoy| |
-|9-Jun|Thu|1|10975|Introduction to Programming using Visual Studio 2019 (MOC)| |Newton Godoy| |
+|6-Jun|Mon|1|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Modules 1,2|Newton Godoy| |
+|7-Jun|Tue|1|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Module 3|Newton Godoy| |
+|8-Jun|Wed|1|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Module 4,5|Newton Godoy| |
+|9-Jun|Thu|1|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Module 6|Newton Godoy| |
 |10-Jun|Fri|1|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |13-Jun|Mon|2|Holiday: Queen's Birthday (AU)| | | | |
-|14-Jun|Tue|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)| |Newton Godoy| |
-|15-Jun|Wed|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)| |Newton Godoy| |
-|16-Jun|Thu|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)| |Newton Godoy|Organise MTM Link|
+|14-Jun|Tue|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Module 7|Newton Godoy| |
+|15-Jun|Wed|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Module 8|Newton Godoy| |
+|16-Jun|Thu|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Modules 9,10|Newton Godoy|Organise MTM Link|
 |17-Jun|Fri|2|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |20-Jun|Mon|3|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison| |
 |21-Jun|Tue|3|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison| |
@@ -92,7 +92,7 @@
 |28-Sep|Wed|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
 |29-Sep|Thu|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|Organise MTM Link|
 |30-Sep|Fri|17|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
-|3-Oct|Mon|17| | | | | |
-|4-Oct|Tue|17| | | | | |
-|5-Oct|Wed|17| | | | | |
+|3-Oct|Mon|17| |Course revision or a revisit on some of the topics| |Iain Morrison| |
+|4-Oct|Tue|17| |Course revision or a revisit on some of the topics| |Mark Walsh| |
+|5-Oct|Wed|17| |Course revision or a revisit on some of the topics| |Mark Walsh| |
 |6-Oct|Thu|17|Graduation| | | | |
