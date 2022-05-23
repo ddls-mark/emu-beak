@@ -1,6 +1,6 @@
 # MSSA-APAC-CAD1 (Course Schedule - June to October 2022)
 
-## Learning Plan (V.0.0.2)
+## Learning Plan (V.0.0.3)
 
 |Date|Day|Week|MOC Course# or Subject|Course Title/Topic|Modules Covered|Instructor Name|Notes (activities, transitions, additional topics, etc.)|
 |:----|:----|:----|:----|:----|:----|:----|:----|
@@ -52,25 +52,25 @@
 |3-Aug|Wed|9|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |4-Aug|Thu|9|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |5-Aug|Fri|9|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
-|8-Aug|Mon|10|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)| |Arturo Bravo| |
-|9-Aug|Tue|10|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)| |Arturo Bravo| |
-|10-Aug|Wed|10|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)| |Arturo Bravo| |
-|11-Aug|Thu|10|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)| |Arturo Bravo| |
+|8-Aug|Mon|10|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)|Modules 1, 2, and 3 intro|Arturo Bravo| |
+|9-Aug|Tue|10|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)|Modules 3 cont, 4, 5|Arturo Bravo| |
+|10-Aug|Wed|10|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)|Modules 6, 7, 8 intro|Arturo Bravo| |
+|11-Aug|Thu|10|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)|Modules 8, 9, and 10|Arturo Bravo| |
 |12-Aug|Fri|10|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
-|15-Aug|Mon|11|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)| |Arturo Bravo| |
-|16-Aug|Tue|11|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)| |Arturo Bravo|Organise MTM Link|
-|17-Aug|Wed|11|20486|Developing ASP.NET Core MVC Web Applications (MOC)| |Arturo Bravo| |
-|18-Aug|Thu|11|20486|Developing ASP.NET Core MVC Web Applications (MOC)| |Arturo Bravo| |
+|15-Aug|Mon|11|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)|Modules 11, 12, 13 intro|Arturo Bravo| |
+|16-Aug|Tue|11|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)|Modules 13 cont, 14, 15|Arturo Bravo|Organise MTM Link|
+|17-Aug|Wed|11|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 1, 2 intro|Arturo Bravo| |
+|18-Aug|Thu|11|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 2 cont, 3|Arturo Bravo| |
 |19-Aug|Fri|11|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
-|22-Aug|Mon|12|20486|Developing ASP.NET Core MVC Web Applications (MOC)| |Arturo Bravo|In round one, we had 20486D - check with Microsoft what the difference is|
-|23-Aug|Tue|12|20486|Developing ASP.NET Core MVC Web Applications (MOC)| |Arturo Bravo| |
-|24-Aug|Wed|12|20486|Developing ASP.NET Core MVC Web Applications (MOC)| |Arturo Bravo| |
-|25-Aug|Thu|12|20486|Developing ASP.NET Core MVC Web Applications (MOC)| |Arturo Bravo| |
+|22-Aug|Mon|12|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 4, 5 intro|Arturo Bravo|In round one, we had 20486D - check with Microsoft what the difference is - Verified|
+|23-Aug|Tue|12|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Module 5 cont, 6|Arturo Bravo| |
+|24-Aug|Wed|12|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Module 7, 8 intro|Arturo Bravo| |
+|25-Aug|Thu|12|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Module 8 cont, 9  intro|Arturo Bravo| |
 |26-Aug|Fri|12|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
-|29-Aug|Mon|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)| |Arturo Bravo| |
-|30-Aug|Tue|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)| |Arturo Bravo| |
-|31-Aug|Wed|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)| |Arturo Bravo| |
-|1-Sep|Thu|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)| |Arturo Bravo|Organise MTM Link|
+|29-Aug|Mon|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Module 9 cont, 10 intro|Arturo Bravo| |
+|30-Aug|Tue|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Module 10 cont, 11 intro|Arturo Bravo| |
+|31-Aug|Wed|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 11 cont, 12|Arturo Bravo| |
+|1-Sep|Thu|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 13 cont, 14|Arturo Bravo|Organise MTM Link|
 |2-Sep|Fri|13|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |5-Sep|Mon|14|Holiday: Labor Day (US)| | | | |
 |6-Sep|Tue|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Newton Godoy OR Arturo Bravo| |
