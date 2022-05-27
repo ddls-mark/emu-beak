@@ -1,6 +1,6 @@
 # MSSA-APAC-CAD1 (Course Schedule - June to October 2022)
 
-## Learning Plan (V.0.0.3)
+## Learning Plan (V.0.0.4)
 
 |Date|Day|Week|MOC Course# or Subject|Course Title/Topic|Modules Covered|Instructor Name|Notes (activities, transitions, additional topics, etc.)|
 |:----|:----|:----|:----|:----|:----|:----|:----|
@@ -42,10 +42,10 @@
 |20-Jul|Wed|7|20483|Programming in C# (MOC)|Module 12|Mark Walsh| |
 |21-Jul|Thu|7|20483|Programming in C# (MOC)|Module 12,13|Mark Walsh|Organise MTM Link|
 |22-Jul|Fri|7|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
-|25-Jul|Mon|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Mark Walsh (TBC)| |
-|26-Jul|Tue|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Mark Walsh (TBC)| |
-|27-Jul|Wed|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Mark Walsh (TBC)| |
-|28-Jul|Thu|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Mark Walsh (TBC)| |
+|25-Jul|Mon|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh| |
+|26-Jul|Tue|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh| |
+|27-Jul|Wed|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh| |
+|28-Jul|Thu|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh| |
 |29-Jul|Fri|8|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |1-Aug|Mon|9|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |2-Aug|Tue|9|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
@@ -73,9 +73,9 @@
 |1-Sep|Thu|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 13 cont, 14|Arturo Bravo|Organise MTM Link|
 |2-Sep|Fri|13|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |5-Sep|Mon|14|Holiday: Labor Day (US)| | | | |
-|6-Sep|Tue|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Newton Godoy OR Arturo Bravo| |
-|7-Sep|Wed|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Newton Godoy OR Arturo Bravo| |
-|8-Sep|Thu|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Newton Godoy OR Arturo Bravo| |
+|6-Sep|Tue|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Arturo Bravo| |
+|7-Sep|Wed|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Arturo Bravo| |
+|8-Sep|Thu|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Arturo Bravo| |
 |9-Sep|Fri|14|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |12-Sep|Mon|15|AZ-900 |Microsoft Azure Fundamentals (MOC)| |Steve Wiggins| |
 |13-Sep|Tue|15|AZ-900 |Microsoft Azure Fundamentals (MOC)| |Steve Wiggins| |
