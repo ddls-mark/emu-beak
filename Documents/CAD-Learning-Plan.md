@@ -1,7 +1,6 @@
 # MSSA-APAC-CAD1 (Course Schedule - June to October 2022)
 
-## Learning Plan (V.0.0.4)
-
+## Learning Plan (V.0.0.5)
 |Date|Day|Week|MOC Course# or Subject|Course Title/Topic|Modules Covered|Instructor Name|Notes (activities, transitions, additional topics, etc.)|
 |:----|:----|:----|:----|:----|:----|:----|:----|
 | | | | | | | | |
@@ -15,7 +14,7 @@
 |13-Jun|Mon|2|Holiday: Queen's Birthday (AU)| | | | |
 |14-Jun|Tue|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Module 7|Newton Godoy| |
 |15-Jun|Wed|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Module 8|Newton Godoy| |
-|16-Jun|Thu|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Modules 9,10|Newton Godoy|Organise MTM Link|
+|16-Jun|Thu|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Modules 9,10|Newton Godoy| https://www.metricsthatmatter.com/url/u.aspx?103D96BC2183907169|
 |17-Jun|Fri|2|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |20-Jun|Mon|3|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison| |
 |21-Jun|Tue|3|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison| |
@@ -23,7 +22,7 @@
 |23-Jun|Thu|3|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison| |
 |24-Jun|Fri|3|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |27-Jun|Mon|4|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison| |
-|28-Jun|Tue|4|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison|Organise MTM Link|
+|28-Jun|Tue|4|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison| https://www.metricsthatmatter.com/url/u.aspx?F2843625D183907030|
 |29-Jun|Wed|4|20483|Programming in C# (MOC)|Module 1 & 2 (Key points)|Mark Walsh|Overlaps with 10975, can go through more quickly|
 |30-Jun|Thu|4|20483|Programming in C# (MOC)|Module 3|Mark Walsh| |
 |1-Jul|Fri|4|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
@@ -40,7 +39,7 @@
 |18-Jul|Mon|7|20483|Programming in C# (MOC)|Module 10|Mark Walsh| |
 |19-Jul|Tue|7|20483|Programming in C# (MOC)|Module 10,11|Mark Walsh| |
 |20-Jul|Wed|7|20483|Programming in C# (MOC)|Module 12|Mark Walsh| |
-|21-Jul|Thu|7|20483|Programming in C# (MOC)|Module 12,13|Mark Walsh|Organise MTM Link|
+|21-Jul|Thu|7|20483|Programming in C# (MOC)|Module 12,13|Mark Walsh|https://www.metricsthatmatter.com/url/u.aspx?CFFF72F47183907181|
 |22-Jul|Fri|7|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |25-Jul|Mon|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh| |
 |26-Jul|Tue|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh| |
@@ -80,7 +79,7 @@
 |12-Sep|Mon|15|AZ-900 |Microsoft Azure Fundamentals (MOC)| |Steve Wiggins| |
 |13-Sep|Tue|15|AZ-900 |Microsoft Azure Fundamentals (MOC)| |Steve Wiggins| |
 |14-Sep|Wed|15|AZ-900 |Microsoft Azure Fundamentals (MOC)| |Steve Wiggins| |
-|15-Sep|Thu|15|AZ-900 |Microsoft Azure Fundamentals (MOC)| |Steve Wiggins|Organise MTM Link|
+|15-Sep|Thu|15|AZ-900 |Microsoft Azure Fundamentals (MOC)| |Steve Wiggins|https://www.metricsthatmatter.com/url/u.aspx?038BDB87A183907048|
 |16-Sep|Fri|15|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |19-Sep|Mon|16|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
 |20-Sep|Tue|16|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
@@ -90,7 +89,8 @@
 |26-Sep|Mon|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
 |27-Sep|Tue|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
 |28-Sep|Wed|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
-|29-Sep|Thu|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|Organise MTM Link|
+|29-Sep|Thu|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|https://www.metricsthatmatter.com/url/u.aspx?8AC7232B0183907056
+|
 |30-Sep|Fri|17|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |3-Oct|Mon|17| |Course revision or a revisit on some of the topics| |Iain Morrison| |
 |4-Oct|Tue|17| |Course revision or a revisit on some of the topics| |Mark Walsh| |
