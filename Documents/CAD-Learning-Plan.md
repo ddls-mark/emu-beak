@@ -1,6 +1,7 @@
 # MSSA-APAC-CAD1 (Course Schedule - June to October 2022)
 
-## Learning Plan (V.0.0.5)
+## Learning Plan (V.0.0.6)
+
 |Date|Day|Week|MOC Course# or Subject|Course Title/Topic|Modules Covered|Instructor Name|Notes (activities, transitions, additional topics, etc.)|
 |:----|:----|:----|:----|:----|:----|:----|:----|
 | | | | | | | | |
@@ -57,7 +58,7 @@
 |11-Aug|Thu|10|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)|Modules 8, 9, and 10|Arturo Bravo| |
 |12-Aug|Fri|10|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |15-Aug|Mon|11|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)|Modules 11, 12, 13 intro|Arturo Bravo| |
-|16-Aug|Tue|11|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)|Modules 13 cont, 14, 15|Arturo Bravo|Organise MTM Link|
+|16-Aug|Tue|11|20480|Programming in HTML5 with JavaScript and CSS3 (MOC)|Modules 13 cont, 14, 15|Arturo Bravo| https://www.metricsthatmatter.com/url/u.aspx?D689AB207184194587|
 |17-Aug|Wed|11|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 1, 2 intro|Arturo Bravo| |
 |18-Aug|Thu|11|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 2 cont, 3|Arturo Bravo| |
 |19-Aug|Fri|11|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
@@ -69,7 +70,7 @@
 |29-Aug|Mon|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Module 9 cont, 10 intro|Arturo Bravo| |
 |30-Aug|Tue|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Module 10 cont, 11 intro|Arturo Bravo| |
 |31-Aug|Wed|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 11 cont, 12|Arturo Bravo| |
-|1-Sep|Thu|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 13 cont, 14|Arturo Bravo|Organise MTM Link|
+|1-Sep|Thu|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 13 cont, 14|Arturo Bravo|https://www.metricsthatmatter.com/url/u.aspx?C6C145660184194715|
 |2-Sep|Fri|13|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |5-Sep|Mon|14|Holiday: Labor Day (US)| | | | |
 |6-Sep|Tue|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Arturo Bravo| |
@@ -89,7 +90,8 @@
 |26-Sep|Mon|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
 |27-Sep|Tue|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
 |28-Sep|Wed|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
-|29-Sep|Thu|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |https://www.metricsthatmatter.com/url/u.aspx?8AC7232B0183907056
+|29-Sep|Thu|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|https://www.metricsthatmatter.com/url/u.aspx?8AC7232B0183907056
+|
 |30-Sep|Fri|17|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |3-Oct|Mon|17| |Course revision or a revisit on some of the topics| |Iain Morrison| |
 |4-Oct|Tue|17| |Course revision or a revisit on some of the topics| |Mark Walsh| |
