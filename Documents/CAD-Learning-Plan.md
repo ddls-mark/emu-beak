@@ -90,8 +90,7 @@
 |26-Sep|Mon|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
 |27-Sep|Tue|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
 |28-Sep|Wed|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins| |
-|29-Sep|Thu|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|https://www.metricsthatmatter.com/url/u.aspx?8AC7232B0183907056
-|
+|29-Sep|Thu|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|https://www.metricsthatmatter.com/url/u.aspx?8AC7232B0183907056|
 |30-Sep|Fri|17|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|Lecture and classroom/individual workbook exercises.|
 |3-Oct|Mon|17| |Course revision or a revisit on some of the topics| |Iain Morrison| |
 |4-Oct|Tue|17| |Course revision or a revisit on some of the topics| |Mark Walsh| |
