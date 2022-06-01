@@ -17,13 +17,13 @@
 |15-Jun|Wed|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Module 8|Newton Godoy|
 |16-Jun|Thu|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Modules 9,10|Newton Godoy|
 |17-Jun|Fri|2|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|20-Jun|Mon|3|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison|
-|21-Jun|Tue|3|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison|
-|22-Jun|Wed|3|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison|
-|23-Jun|Thu|3|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison|
+|20-Jun|Mon|3|DP-080 |Querying Data with Microsoft Transact-SQL|Module 1,2|Iain Morrison|
+|21-Jun|Tue|3|DP-080 |Querying Data with Microsoft Transact-SQL|Module 3|Iain Morrison|
+|22-Jun|Wed|3|DP-080 |Querying Data with Microsoft Transact-SQL|Module 3 contd,4|Iain Morrison|
+|23-Jun|Thu|3|DP-080 |Querying Data with Microsoft Transact-SQL|Module 5 & Advanced topics|Iain Morrison|
 |24-Jun|Fri|3|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|27-Jun|Mon|4|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison|
-|28-Jun|Tue|4|DP-080 |Querying Data with Microsoft Transact-SQL| |Iain Morrison|
+|27-Jun|Mon|4|DP-080 |Querying Data with Microsoft Transact-SQL|Not needed|Iain Morrison|
+|28-Jun|Tue|4|DP-080 |Querying Data with Microsoft Transact-SQL|Not needed|Iain Morrison|
 |29-Jun|Wed|4|20483|Programming in C# (MOC)|Module 1 & 2 (Key points)|Mark Walsh|
 |30-Jun|Thu|4|20483|Programming in C# (MOC)|Module 3|Mark Walsh|
 |1-Jul|Fri|4|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
@@ -73,26 +73,26 @@
 |1-Sep|Thu|13|20486|Developing ASP.NET Core MVC Web Applications (MOC)|Modules 13 cont, 14|Arturo Bravo|
 |2-Sep|Fri|13|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |5-Sep|Mon|14|Holiday: Labor Day (US)| | | |
-|6-Sep|Tue|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Arturo Bravo|
-|7-Sep|Wed|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Arturo Bravo|
-|8-Sep|Thu|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects| |Arturo Bravo|
+|6-Sep|Tue|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Arturo Bravo|
+|7-Sep|Wed|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Arturo Bravo|
+|8-Sep|Thu|14|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Arturo Bravo|
 |9-Sep|Fri|14|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|12-Sep|Mon|15|AZ-900 |Microsoft Azure Fundamentals (MOC)| |Steve Wiggins|
-|13-Sep|Tue|15|AZ-900 |Microsoft Azure Fundamentals (MOC)| |Steve Wiggins|
-|14-Sep|Wed|15|AZ-900 |Microsoft Azure Fundamentals (MOC)| |Steve Wiggins|
-|15-Sep|Thu|15|AZ-900 |Microsoft Azure Fundamentals (MOC)| |Steve Wiggins|
+|12-Sep|Mon|15|AZ-900 |Microsoft Azure Fundamentals (MOC)|Determined later|Steve Wiggins|
+|13-Sep|Tue|15|AZ-900 |Microsoft Azure Fundamentals (MOC)|Determined later|Steve Wiggins|
+|14-Sep|Wed|15|AZ-900 |Microsoft Azure Fundamentals (MOC)|Determined later|Steve Wiggins|
+|15-Sep|Thu|15|AZ-900 |Microsoft Azure Fundamentals (MOC)|Determined later|Steve Wiggins|
 |16-Sep|Fri|15|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|19-Sep|Mon|16|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|
-|20-Sep|Tue|16|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|
-|21-Sep|Wed|16|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|
-|22-Sep|Thu|16|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|
+|19-Sep|Mon|16|AZ-204|Developing Solutions for Microsoft Azure (MOC)|Determined later|Steve Wiggins|
+|20-Sep|Tue|16|AZ-204|Developing Solutions for Microsoft Azure (MOC)|Determined later|Steve Wiggins|
+|21-Sep|Wed|16|AZ-204|Developing Solutions for Microsoft Azure (MOC)|Determined later|Steve Wiggins|
+|22-Sep|Thu|16|AZ-204|Developing Solutions for Microsoft Azure (MOC)|Determined later|Steve Wiggins|
 |23-Sep|Fri|16|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|26-Sep|Mon|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|
-|27-Sep|Tue|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|
-|28-Sep|Wed|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|
-|29-Sep|Thu|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)| |Steve Wiggins|
+|26-Sep|Mon|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)|Determined later|Steve Wiggins|
+|27-Sep|Tue|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)|Determined later|Steve Wiggins|
+|28-Sep|Wed|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)|Determined later|Steve Wiggins|
+|29-Sep|Thu|17|AZ-204|Developing Solutions for Microsoft Azure (MOC)|Determined later|Steve Wiggins|
 |30-Sep|Fri|17|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|3-Oct|Mon|17| |Course revision or a revisit on some of the topics| |Iain Morrison|
-|4-Oct|Tue|17| |Course revision or a revisit on some of the topics| |Mark Walsh|
-|5-Oct|Wed|17| |Course revision or a revisit on some of the topics| |Mark Walsh|
+|3-Oct|Mon|17| |Course revision or a revisit on some of the topics|Determined later|Iain Morrison|
+|4-Oct|Tue|17| |Course revision or a revisit on some of the topics|Determined later|Mark Walsh|
+|5-Oct|Wed|17| |Course revision or a revisit on some of the topics|Determined later|Mark Walsh|
 |6-Oct|Thu|17|Graduation| | | |
