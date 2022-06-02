@@ -1,6 +1,6 @@
 # MSSA-APAC-CAD1 (Course Schedule - June to October 2022)
 
-## Learning Plan (V.1.0.0)
+## Learning Plan (V.1.0.1)
 
 |Date|Day|Week|MOC Course# or Subject|Course Title/Topic|Modules Covered|Instructor Name|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -17,13 +17,13 @@
 |15-Jun|Wed|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Module 8|Newton Godoy|
 |16-Jun|Thu|2|10975|Introduction to Programming using Visual Studio 2019 (MOC)|Modules 9,10|Newton Godoy|
 |17-Jun|Fri|2|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|20-Jun|Mon|3|DP-080 |Querying Data with Microsoft Transact-SQL|Module 1,2|Iain Morrison|
-|21-Jun|Tue|3|DP-080 |Querying Data with Microsoft Transact-SQL|Module 3|Iain Morrison|
-|22-Jun|Wed|3|DP-080 |Querying Data with Microsoft Transact-SQL|Module 3 contd,4|Iain Morrison|
-|23-Jun|Thu|3|DP-080 |Querying Data with Microsoft Transact-SQL|Module 5 & Advanced topics|Iain Morrison|
+|20-Jun|Mon|3|DP-080 |Querying Data with Microsoft Transact-SQL|The Azure Data Platform|Iain Morrison|
+|21-Jun|Tue|3|DP-080 |Querying Data with Microsoft Transact-SQL|Module 1,2|Iain Morrison|
+|22-Jun|Wed|3|DP-080 |Querying Data with Microsoft Transact-SQL|Module 3|Iain Morrison|
+|23-Jun|Thu|3|DP-080 |Querying Data with Microsoft Transact-SQL|Module4|Iain Morrison|
 |24-Jun|Fri|3|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|27-Jun|Mon|4|DP-080 |Querying Data with Microsoft Transact-SQL|Not needed|Iain Morrison|
-|28-Jun|Tue|4|DP-080 |Querying Data with Microsoft Transact-SQL|Not needed|Iain Morrison|
+|27-Jun|Mon|4|DP-080 |Querying Data with Microsoft Transact-SQL|Module 5|Iain Morrison|
+|28-Jun|Tue|4|DP-080 |Querying Data with Microsoft Transact-SQL|Advanced T-SQL|Iain Morrison|
 |29-Jun|Wed|4|20483|Programming in C# (MOC)|Module 1 & 2 (Key points)|Mark Walsh|
 |30-Jun|Thu|4|20483|Programming in C# (MOC)|Module 3|Mark Walsh|
 |1-Jul|Fri|4|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
