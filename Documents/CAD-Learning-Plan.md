@@ -24,8 +24,8 @@
 |24-Jun|Fri|3|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |27-Jun|Mon|4|DP-080 |Querying Data with Microsoft Transact-SQL|Module 5|Iain Morrison|
 |28-Jun|Tue|4|DP-080 |Querying Data with Microsoft Transact-SQL|Advanced T-SQL|Iain Morrison|
-|29-Jun|Wed|4|20483|Programming in C# (MOC)|Module 1 & 2 (Key points)|Mark Walsh|
-|30-Jun|Thu|4|20483|Programming in C# (MOC)|Module 3|Mark Walsh|
+|29-Jun|Wed|4|20483|Programming in C# (MOC)|Module 1  (Key points)|Mark Walsh|
+|30-Jun|Thu|4|20483|Programming in C# (MOC)|Module 2, 3|Mark Walsh|
 |1-Jul|Fri|4|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |4-Jul|Mon|5|Holiday: Independence Day (US)| | | |
 |5-Jul|Tue|5|20483|Programming in C# (MOC)|Module 3,4|Mark Walsh|
