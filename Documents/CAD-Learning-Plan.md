@@ -1,6 +1,6 @@
 # MSSA-APAC-CAD1 (Course Schedule - June to October 2022)
 
-## Learning Plan (V.1.0.1)
+## Learning Plan (V.1.0.3)
 
 |Date|Day|Week|MOC Course# or Subject|Course Title/Topic|Modules Covered|Instructor Name|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -28,13 +28,13 @@
 |30-Jun|Thu|4|20483|Programming in C# (MOC)|Module 2|Mark Walsh|
 |1-Jul|Fri|4|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |4-Jul|Mon|5|Holiday: Independence Day (US)| | | |
-|5-Jul|Tue|5|20483|Programming in C# (MOC)|Module 3,4|Mark Walsh|
+|5-Jul|Tue|5|20483|Programming in C# (MOC)|Module 3|Mark Walsh|
 |6-Jul|Wed|5|20483|Programming in C# (MOC)|Module 4|Mark Walsh|
 |7-Jul|Thu|5|20483|Programming in C# (MOC)|Module 5|Mark Walsh|
 |8-Jul|Fri|5|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |11-Jul|Mon|6|20483|Programming in C# (MOC)|Module 6|Mark Walsh|
 |12-Jul|Tue|6|20483|Programming in C# (MOC)|Module 7|Mark Walsh|
-|13-Jul|Wed|6|20483|Programming in C# (MOC)|Custom REST API module|Mark Walsh|
+|13-Jul|Wed|6|20483|Programming in C# (MOC)|Custom REST API module? Git (part 1)?|Mark Walsh|
 |14-Jul|Thu|6|20483|Programming in C# (MOC)|Module 9|Mark Walsh|
 |15-Jul|Fri|6|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |18-Jul|Mon|7|20483|Programming in C# (MOC)|Module 10|Mark Walsh|
