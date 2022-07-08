@@ -34,12 +34,12 @@
 |8-Jul|Fri|5|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |11-Jul|Mon|6|20483|Programming in C# (MOC)|Module 6|Mark Walsh|
 |12-Jul|Tue|6|20483|Programming in C# (MOC)|Module 7|Mark Walsh|
-|13-Jul|Wed|6|20483|Programming in C# (MOC)|Custom REST API module? Git (part 1)?|Mark Walsh|
-|14-Jul|Thu|6|20483|Programming in C# (MOC)|Module 9|Mark Walsh|
+|13-Jul|Wed|6|20483|Programming in C# (MOC)|Module 9|Mark Walsh|
+|14-Jul|Thu|6|20483|Programming in C# (MOC)|Module 10|Mark Walsh|
 |15-Jul|Fri|6|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|18-Jul|Mon|7|20483|Programming in C# (MOC)|Module 10|Mark Walsh|
-|19-Jul|Tue|7|20483|Programming in C# (MOC)|Module 10,11|Mark Walsh|
-|20-Jul|Wed|7|20483|Programming in C# (MOC)|Module 12|Mark Walsh|
+|18-Jul|Mon|7|20483|Programming in C# (MOC)|Module 10, Intro to Git |Mark Walsh|
+|19-Jul|Tue|7|20483|Programming in C# (MOC)|Custom REST API module, Module 11|Mark Walsh|
+|20-Jul|Wed|7|20483|Programming in C# (MOC)|Module 11,12|Mark Walsh|
 |21-Jul|Thu|7|20483|Programming in C# (MOC)|Module 12,13|Mark Walsh|
 |22-Jul|Fri|7|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |25-Jul|Mon|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh|
