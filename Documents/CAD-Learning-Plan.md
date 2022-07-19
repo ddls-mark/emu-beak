@@ -1,6 +1,6 @@
 # MSSA-APAC-CAD1 (Course Schedule - June to October 2022)
 
-## Learning Plan (V.1.0.3)
+## Learning Plan (V.1.0.4)
 
 |Date|Day|Week|MOC Course# or Subject|Course Title/Topic|Modules Covered|Instructor Name|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -37,13 +37,13 @@
 |13-Jul|Wed|6|20483|Programming in C# (MOC)|Module 9|Mark Walsh|
 |14-Jul|Thu|6|20483|Programming in C# (MOC)|Module 10|Mark Walsh|
 |15-Jul|Fri|6|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|18-Jul|Mon|7|20483|Programming in C# (MOC)|Module 10, Intro to Git |Mark Walsh|
-|19-Jul|Tue|7|20483|Programming in C# (MOC)|Custom REST API module, Module 11|Mark Walsh|
-|20-Jul|Wed|7|20483|Programming in C# (MOC)|Module 11,12|Mark Walsh|
-|21-Jul|Thu|7|20483|Programming in C# (MOC)|Module 12,13|Mark Walsh|
+|18-Jul|Mon|7|20483|Custom Courseware|Module 10, Intro to Git |Mark Walsh|
+|19-Jul|Tue|7|20483|Custom Courseware|GIT + Git Hub|Mark Walsh|
+|20-Jul|Wed|7|20483|Custom Courseware|GIT and REST|Mark Walsh|
+|21-Jul|Thu|7|20483|Programming in C# (MOC)|Module 11|Mark Walsh|
 |22-Jul|Fri|7|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|25-Jul|Mon|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh|
-|26-Jul|Tue|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh|
+|25-Jul|Mon|8|Custom|Programming in C# (MOC)|Module 12|Mark Walsh|
+|26-Jul|Tue|8|Custom|Programming in C# (MOC)|Module 13|Mark Walsh|
 |27-Jul|Wed|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh|
 |28-Jul|Thu|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh|
 |29-Jul|Fri|8|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
