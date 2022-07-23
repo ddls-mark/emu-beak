@@ -1,6 +1,6 @@
 # MSSA-APAC-CAD1 (Course Schedule - June to October 2022)
 
-## Learning Plan (V.1.0.4)
+## Learning Plan (V.1.0.5)
 
 |Date|Day|Week|MOC Course# or Subject|Course Title/Topic|Modules Covered|Instructor Name|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -39,13 +39,13 @@
 |15-Jul|Fri|6|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |18-Jul|Mon|7|20483|Custom Courseware|Module 10, Intro to Git |Mark Walsh|
 |19-Jul|Tue|7|20483|Custom Courseware|GIT + Git Hub|Mark Walsh|
-|20-Jul|Wed|7|20483|Custom Courseware|GIT and REST|Mark Walsh|
-|21-Jul|Thu|7|20483|Programming in C# (MOC)|Module 11|Mark Walsh|
+|20-Jul|Wed|7|20483|Custom Courseware|GIT and REST + Exercises to shapren C# skills|Mark Walsh|
+|21-Jul|Thu|7|20483|Programming in C# (MOC)|GIT and REST + Exercises to shapren C# skills|Mark Walsh|
 |22-Jul|Fri|7|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
-|25-Jul|Mon|8|Custom|Programming in C# (MOC)|Module 12|Mark Walsh|
-|26-Jul|Tue|8|Custom|Programming in C# (MOC)|Module 13|Mark Walsh|
-|27-Jul|Wed|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh|
-|28-Jul|Thu|8|Custom|GitHub AND Advanced Labs, Evaluations, Assigned special projects|Determined later|Mark Walsh|
+|25-Jul|Mon|8|Custom|Custom Courseware|GIT and REST + Exercises to shapren C# skills|Mark Walsh|
+|26-Jul|Tue|8|Custom|Custom Courseware|GIT and REST + Exercises to shapren C# skills + Assemblies|Mark Walsh|
+|27-Jul|Wed|8|Custom|Custom Courseware|Config Files, .Net Framework Vs .Net Core Vs .net standard Vs .Net, VSCode Vs Visual Studio, Nuget|Mark Walsh|
+|28-Jul|Thu|8|Custom|Custom Courseware|.Net Framework Vs .Net Core Vs .net standard Vs .Net, VSCode Vs Visual Studio, Nuget|Mark Walsh|
 |29-Jul|Fri|8|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |1-Aug|Mon|9|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |2-Aug|Tue|9|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
