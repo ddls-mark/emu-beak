@@ -40,7 +40,7 @@
 |18-Jul|Mon|7|20483|Custom Courseware|Module 10, Intro to Git |Mark Walsh|
 |19-Jul|Tue|7|20483|Custom Courseware|GIT + Git Hub|Mark Walsh|
 |20-Jul|Wed|7|20483|Custom Courseware|GIT and REST + Exercises to shapren C# skills|Mark Walsh|
-|21-Jul|Thu|7|20483|Programming in C# (MOC)|GIT and REST + Exercises to shapren C# skills|Mark Walsh|
+|21-Jul|Thu|7|20483|Custom Courseware|GIT and REST + Exercises to shapren C# skills|Mark Walsh|
 |22-Jul|Fri|7|MSSA ProDev|MSSA Professional Development| |MS Career Development Mngr.|
 |25-Jul|Mon|8|Custom|Custom Courseware|GIT and REST + Exercises to shapren C# skills|Mark Walsh|
 |26-Jul|Tue|8|Custom|Custom Courseware|GIT and REST + Exercises to shapren C# skills + Assemblies|Mark Walsh|
